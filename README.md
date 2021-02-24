@@ -32,8 +32,6 @@ POST: post image and tags
 
 ![Image alt](https://github.com/ZharkovMihail/test_task_KT/blob/master/screenshots_for_readme/post_new_picture.png)
 
-далее зеленая лажа, хз как это убрать(
-
 #### url: http://localhost:8000/media/uploads/[str:file_name]
 
 GET: get picture
